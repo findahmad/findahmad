@@ -47,7 +47,7 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-<img src="image_url" alt="description">
+
 
 ### Socials
 
