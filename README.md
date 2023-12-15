@@ -10,7 +10,15 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 * 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~01c1b5e6d592ed9f08) Profile
 * ✉️  You can contact me at [ahmadrazza03@gmail.com](mailto:ahmadrazza03@gmail.com)
 * 🧠  I'm learning Node.js and React
-* 🤝  I'm open to collaborating on Interestring Projects
+* 🤝  I'm open to collaborating on interesting projects
+
+
+### GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=findahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=findahmad&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=findahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ### Skills
 
