@@ -12,14 +12,6 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 * 🧠  I'm learning Node.js and React
 * 🤝  I'm open to collaborating on interesting projects
 
-
-### GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=findahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=findahmad&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=findahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
 ### Skills
 
 <p align="left">
@@ -60,6 +52,13 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 ### Socials
 
 <p align="left"><a href="https://www.github.com/findahmad" target="_blank" rel="noreferrer"><img src="./github-icon.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/mian_ahmii143/" target="_blank" rel="noreferrer"><img src="./instagram-icon.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/findahmad" target="_blank" rel="noreferrer"><img src="./linkedin-icon.svg" width="32" height="32" /></a> <a href="https://www.upwork.com/freelancers/~01c1b5e6d592ed9f08" target="_blank" rel="noreferrer"><img src="./upwork-tile.svg" width="32" height="32" /></a></p>
+
+
+### GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=findahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=findahmad&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=findahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 ### Badges
