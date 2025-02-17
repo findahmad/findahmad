@@ -4,12 +4,12 @@ Hi 👋 My name is Ahmad Raza
 Full Stack Developer
 --------------------
 
-As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
+As a Full Stack Developer with over 5 years of experience, I specialize in designing, developing, and maintaining web applications from the ground up. My expertise spans both front-end and back-end technologies, enabling me to deliver high-quality, user-friendly, and scalable solutions. From crafting intuitive user interfaces to optimizing server-side logic, I have a comprehensive understanding of the entire web development lifecycle.
 
 
 * 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~01c1b5e6d592ed9f08) Profile
 * ✉️  You can contact me at [ahmadrazza03@gmail.com](mailto:ahmadrazza03@gmail.com)
-* 🧠  I'm learning Node.js and React
+* 🧠 Full Stack Developer with expertise in both front-end and back-end technologies.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
